@@ -1,4 +1,5 @@
 {
 	"notarize_api_key": "your_notarize_lender_api_key",
-	"notarize_api_url": "https://api.notarize.com"
+	"notarize_api_url": "https://api.notarize.com",
+	"enable_send_to_signers": false
 }
